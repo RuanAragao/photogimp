@@ -1,0 +1,11 @@
+# GIMP gimp-pencil-tool options
+
+(foreground (color-rgb 0.619608 0.529412 0.450980))
+(background (color-rgb 0.000000 0.000000 0.000000))
+(brush "2. Hardness 100")
+(dynamics "Pressure Opacity")
+(gradient "Frente para fundo (RGB) ")
+(palette "Dark pastels")
+(brush-size 2.000000)
+
+# end of gimp-pencil-tool options

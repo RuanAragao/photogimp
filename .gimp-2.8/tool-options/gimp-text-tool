@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 1.000000 1.000000 1.000000))
+(palette "Dark pastels")
+(font "Comfortaa")
+(font-size 28.000000)
+(justify center)
+(line-spacing 4.000000)
+
+# end of gimp-text-tool options

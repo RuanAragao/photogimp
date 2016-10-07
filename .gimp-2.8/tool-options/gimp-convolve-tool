@@ -1,0 +1,11 @@
+# GIMP gimp-convolve-tool options
+
+(foreground (color-rgb 0.227359 0.242906 0.258824))
+(background (color-rgb 0.784314 0.135115 0.067666))
+(brush "Normal Nib 1")
+(dynamics "Pressure Opacity")
+(palette "Dark pastels")
+(brush-size 189.290000)
+(rate 90.900000)
+
+# end of gimp-convolve-tool options

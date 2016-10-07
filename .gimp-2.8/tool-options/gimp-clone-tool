@@ -1,0 +1,10 @@
+# GIMP gimp-clone-tool options
+
+(foreground (color-rgb 0.549020 0.309804 0.509804))
+(brush "Round  middle soft LS")
+(dynamics "Pressure Opacity")
+(pattern "Pine")
+(palette "Dark pastels")
+(brush-size 110.840000)
+
+# end of gimp-clone-tool options

@@ -1,0 +1,12 @@
+# GIMP gimp-airbrush-tool options
+
+(paint-mode saturation-mode)
+(brush "Normal Nib 1")
+(dynamics "Pressure Opacity")
+(gradient "Frente e fundo (duas cores)")
+(palette "Dark pastels")
+(brush-size 166.640000)
+(rate 150.000000)
+(flow 40.000000)
+
+# end of gimp-airbrush-tool options

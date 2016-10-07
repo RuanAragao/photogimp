@@ -1,0 +1,61 @@
+# GIMP gimprc
+# 
+# This is your personal gimprc file.  Any variable defined in this file takes
+# precedence over the value defined in the system-wide gimprc:
+# /etc/gimp/2.0/gimprc
+# Most values can be set within GIMP by changing some options in the
+# Preferences dialog.
+
+(default-image
+    (width 1920)
+    (height 1080)
+    (unit pixels)
+    (xresolution 72.000000)
+    (yresolution 72.000000)
+    (resolution-unit inches)
+    (image-type rgb)
+    (fill-type background-fill)
+    (comment "Created with GIMP"))
+(layer-preview-size large)
+(thumbnail-size large)
+(thumbnail-filesize-limit 20M)
+(color-management
+    (mode softproof)
+    (display-profile-from-gdk yes)
+    (display-rendering-intent perceptual)
+    (simulation-rendering-intent perceptual)
+    (simulation-gamut-check no)
+    (out-of-gamut-color (color-rgb 0.501961 0.501961 0.501961))
+    (display-module "CdisplayLcms"))
+(monitor-xresolution 81.000000)
+(monitor-yresolution 80.000000)
+(navigation-preview-size extra-large)
+(default-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers no)
+    (show-scrollbars no)
+    (show-selection yes)
+    (show-layer-boundary no)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (padding-mode custom)
+    (padding-color (color-rgb 0.152941 0.152941 0.152941)))
+(default-fullscreen-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers no)
+    (show-scrollbars no)
+    (show-selection yes)
+    (show-layer-boundary no)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (padding-mode custom)
+    (padding-color (color-rgb 0.192157 0.192157 0.192157)))
+(save-session-info no)
+(theme "Gimp-CS6-Theme")
+
+
+# end of gimprc

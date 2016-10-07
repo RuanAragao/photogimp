@@ -1,0 +1,11 @@
+# GIMP gimp-smudge-tool options
+
+(foreground (color-rgb 0.243137 0.113725 0.219608))
+(brush "Round Soft 090")
+(dynamics "Pressure Opacity")
+(palette "Dark pastels")
+(brush-size 100.380000)
+(use-jitter yes)
+(use-smoothing yes)
+
+# end of gimp-smudge-tool options

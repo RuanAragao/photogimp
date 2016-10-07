@@ -1,0 +1,7 @@
+# GIMP gimp-blend-tool options
+
+(foreground (color-rgb 0.933333 0.462745 0.223529))
+(background (color-rgb 0.576471 0.243137 0.701961))
+(gradient "Frente e fundo (duas cores)")
+
+# end of gimp-blend-tool options

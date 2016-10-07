@@ -1,0 +1,10 @@
+# GIMP gimp-vector-tool options
+
+(foreground (color-rgb 0.227359 0.242906 0.258824))
+(brush "Normal Nib 1")
+(dynamics "Pressure Opacity")
+(pattern "Pine")
+(gradient "Frente e fundo (duas cores)")
+(palette "Dark pastels")
+
+# end of gimp-vector-tool options

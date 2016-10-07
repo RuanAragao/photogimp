@@ -1,0 +1,10 @@
+# GIMP gimp-eraser-tool options
+
+(foreground (color-rgb 1.000000 1.000000 1.000000))
+(background (color-rgb 0.000000 0.000000 0.000000))
+(brush "Normal Nib 1 #1")
+(dynamics "Pressure Opacity")
+(palette "Dark pastels")
+(brush-size 107.000000)
+
+# end of gimp-eraser-tool options
